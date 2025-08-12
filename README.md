@@ -2,7 +2,7 @@
 
 [English](#en) | [中文](#cn)
 
-![系统框架图](E:\Code_Project\K230\Omni_VLM\Image\系统框架图.png)
+![系统框架图](https://github.com/IllusionMZX/K230-VLM-Control/blob/main/Image/%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B6%E5%9B%BE.png)
 
 
 #  <span id="en">1\. Project Overview</span>
